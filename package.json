@@ -78,7 +78,6 @@
     "jquery": "*",
     "lodash": "*",
     "rasterizehtml": "^1.2.4",
-    "three": "*",
-    "three-js-csg": "^72.0.0"
+    "three": "*"
   }
 }
