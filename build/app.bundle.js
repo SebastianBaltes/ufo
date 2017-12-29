@@ -58,7 +58,7 @@ const html = `
              position="-60 -10 -70" 
              scale="0.2 0.2 0.2" 
              rotation="0 0 -90" 
-             material="sphericalEnvMap:#sky;metalness:1;roughness:0.2;emissiveIntensity:0.2;color:#ffffff;emissive:#ffffff"
+             material="sphericalEnvMap:#sky;metalness:1;roughness:0;emissiveIntensity:0.2;color:#ffffff;emissive:#ffffff"
              geometry="primitive: superellipsoid; a: 1; b: 0.277; n: 2.5; ">
 
             <a-animation attribute="rotation" dur="20000" to="0 0 -2000" easing="ease-in">            
