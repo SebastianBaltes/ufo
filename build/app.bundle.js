@@ -58,14 +58,14 @@ const html = `
              position="-60 -10 -70" 
              scale="0.2 0.2 0.2" 
              rotation="0 0 -90" 
-             material="sphericalEnvMap:#sky;metalness:1;roughness:0;emissiveIntensity:0.2;color:#ffffff;emissive:#ffffff"
+             material="sphericalEnvMap:#sky;metalness:1;roughness:0;emissiveIntensity:0.1;color:#ffffff;emissive:#ffffff"
              geometry="primitive: superellipsoid; a: 1; b: 0.277; n: 2.5; ">
 
             <a-animation attribute="rotation" dur="20000" to="0 0 -2000" easing="ease-in">            
             </a-animation>        
             <a-animation attribute="position" dur="20000" to="0.869 0.2 -10" easing="ease-in-expo">            
             </a-animation>           
-             
+              
             <a-animation attribute="rotation" begin="20000" dur="60000" from="0 0 -2000" to="0 0 -3000" easing="ease-out">            
             </a-animation>        
             <a-animation attribute="position" begin="20000" dur="60000" from="0.869 0.2 -10" to="0.869 0.951 -2" easing="ease-out">            
