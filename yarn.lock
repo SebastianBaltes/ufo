@@ -6651,10 +6651,6 @@ three-buffer-vertex-data@^1.0.0:
   dependencies:
     flatten-vertex-data "^1.0.0"
 
-three-js-csg@^72.0.0:
-  version "72.0.0"
-  resolved "https://registry.yarnpkg.com/three-js-csg/-/three-js-csg-72.0.0.tgz#69e6ae441f3f01089e6f13c87c7288e1c4380bbc"
-
 three-pathfinding@^0.2.2:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/three-pathfinding/-/three-pathfinding-0.2.3.tgz#469bb26fb6b331f536c9ec88fde78e9c9219f637"
@@ -6664,8 +6660,8 @@ three-to-cannon@^1.1.1:
   resolved "https://registry.yarnpkg.com/three-to-cannon/-/three-to-cannon-1.1.2.tgz#b0040b893b2fa5f0e8a0aedf58bc90fc07f137aa"
 
 three@*:
-  version "0.89.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.89.0.tgz#4442d819a6168871b8d2cb37ad12a24310c170f5"
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
 
 three@^0.87.0:
   version "0.87.1"
