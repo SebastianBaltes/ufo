@@ -1356,8 +1356,8 @@ chokidar@^1.7.0:
     fsevents "^1.0.0"
 
 chownr@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.4.tgz#6fc9d7b42d32a583596337666e7d08084da2cc6b"
 
 cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
   version "1.0.4"
@@ -6650,10 +6650,6 @@ three-buffer-vertex-data@^1.0.0:
   resolved "https://registry.yarnpkg.com/three-buffer-vertex-data/-/three-buffer-vertex-data-1.1.0.tgz#cf228e78427665884b961a4cabe1f85ed39f82b1"
   dependencies:
     flatten-vertex-data "^1.0.0"
-
-three-js-csg@^72.0.0:
-  version "72.0.0"
-  resolved "https://registry.yarnpkg.com/three-js-csg/-/three-js-csg-72.0.0.tgz#69e6ae441f3f01089e6f13c87c7288e1c4380bbc"
 
 three-pathfinding@^0.2.2:
   version "0.2.3"
