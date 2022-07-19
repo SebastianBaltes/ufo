@@ -4538,9 +4538,9 @@ mkdirp@0.5.1, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkd
   dependencies:
     minimist "0.0.8"
 
-mkdirp@~0.3.5:
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.3.5.tgz#de3e5f8961c88c787ee1368df849ac4413eca8d7"
+mkdirp@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -5450,11 +5450,11 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-properties-reader@0.0.15:
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/properties-reader/-/properties-reader-0.0.15.tgz#260a20a122a32aa7fe166bd237a0abeecff53086"
+properties-reader@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/properties-reader/-/properties-reader-2.2.0.tgz#41d837fe143d8d5f2386b6a869a1975c0b2c595c"
   dependencies:
-    mkdirp "~0.3.5"
+    mkdirp "^1.0.4"
 
 properties@^1.2.1:
   version "1.2.1"
@@ -6650,10 +6650,6 @@ three-buffer-vertex-data@^1.0.0:
   resolved "https://registry.yarnpkg.com/three-buffer-vertex-data/-/three-buffer-vertex-data-1.1.0.tgz#cf228e78427665884b961a4cabe1f85ed39f82b1"
   dependencies:
     flatten-vertex-data "^1.0.0"
-
-three-js-csg@^72.0.0:
-  version "72.0.0"
-  resolved "https://registry.yarnpkg.com/three-js-csg/-/three-js-csg-72.0.0.tgz#69e6ae441f3f01089e6f13c87c7288e1c4380bbc"
 
 three-pathfinding@^0.2.2:
   version "0.2.3"
